@@ -9,4 +9,5 @@ height: auto;
 
 .photos {
    text-align: center;
+   border-style: dotted;
 }
